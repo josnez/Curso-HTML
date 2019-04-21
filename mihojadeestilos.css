@@ -1,0 +1,37 @@
+	
+#cabeceraWeb {  /*selector por id*/
+
+	background-color: #FF0C0C;
+}
+
+#navegacionPrincipal {
+
+	background-color: #FE3030;
+}
+
+#barraLateral {
+
+	background-color: #4E66F6;
+	float: left; /* cambia a disposicion en linea y se ajusta al tamaño del texto en su interior*/
+	height: 900px;
+}
+
+#contenidoPrincipal {
+
+	background-color: #51F93F;
+	margin-left: 200px; /*distancia de la parte izquierda del elemento conrespecto a el elemento que esta a la izquierda del que le damos margen.*/
+	padding-left: 15px;
+	padding-top: 15px;
+}
+
+#piePrincipal {
+
+	background-color: #CFF745;
+	clear: both;
+}
+
+li {  /*selector por etiqueta*/
+
+	background-color: #32CBFD;
+	display: inline; /* disposicion de los elementos*/
+}
